@@ -1,0 +1,291 @@
+[
+    {
+        "question": "what is neural network ?",
+        "answer": "## Definition of Neural Network\nA **Neural Network** is a computer system inspired by the **human brain**. It is made up of many small connected units called **NEURONS** (or nodes) that work together to learn patterns from data and make decisions.",
+        "citations": [
+            "Soft_Computing_Neural_Network_Notes.docx",
+            "NeuralNetworks_Unit5_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "NeuralNetworks_Unit5_Notes.docx_3",
+            "NeuralNetworks_Unit5_Notes.docx_2",
+            "Soft_Computing_Neural_Network_Notes.docx_84",
+            "NeuralNetworks_Unit5_Notes.docx_29",
+            "NeuralNetworks_Unit5_Notes.docx_5"
+        ],
+        "retrieved_chunks": [
+            "level? What is a Neural Network? A Neural Network is a computer system inspired by the human brain. It is made up of many small connected units called NEURONS (or nodes) that work together to learn patterns from data and make decisions. 💡 Simple Analogy: Just like your brain learns to recognise your mother's face by seeing it thousands of times — a neural network learns to recognise a cat by seeing thousands of cat images.",
+            "vation Functions SECTION C — Network Architecture Topic 5: Neural Network Architectures Topic 6: Characteristics of Neural Networks SECTION D — Learning Topic 7: Learning Methods in Neural Networks Topic 8: Learning Rules (Hebbian, Delta, Perceptron etc.) SECTION A — THE FOUNDATION Topic 1: Basic Concepts of Neural Networks What is it? Why does it exist? How does it work at a high level? What is a Neural Network? A Neural Network is a computer system inspired by the human brain.",
+            ": Frames ≈ Classes; Frame instances ≈ Objects; Slots ≈ Attributes; Procedural attachments ≈ Methods. UNIT V — Fundamentals of Neural Networks 5.1 Basic Concepts of Neural Networks An Artificial Neural Network (ANN) is a computational model inspired by the biological neural network of the brain. It consists of interconnected processing units (artificial neurons) that learn to perform tasks by adjusting the strength of connections (weights) based on training data.",
+            "Networks What makes neural networks special and powerful Key Characteristics of Neural Networks ▶ 1. Massive Parallelism Neural networks process many things SIMULTANEOUSLY — thousands of neurons working at the same time. Much faster than sequential computation. 💡 Like a factory with 1000 workers all doing different tasks at once — vs one person doing everything one by one. ▶ 2. Distributed Representation Knowledge is NOT stored in one place.",
+            "s manually. Neural Networks learn the rules AUTOMATICALLY from data — no manual rule writing needed. Where are Neural Networks used today? Key Concepts You Must Know ✅ Neural Network = Many artificial neurons connected together, learning patterns from data, like a simplified brain. Topic 2: The Human Brain — Biological Inspiration How the brain works and how AI copies it The Biological Brain The human brain contains approximately 86 BILLION neurons."
+        ],
+        "latency_ms": 3695.82,
+        "timestamp": "2026-06-08 15:07:04"
+    },
+    {
+        "question": "what is fennex ?",
+        "answer": "## What Fennex Does\nFennex is a **digital transformation** and **enterprise software** company that specializes in the offshore energy, oil & gas, renewable energy, and industrial safety sectors.",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "Fennex_Onboarding.pdf",
+            "response (9).docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "response (9).docx_2",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_25",
+            "Fennex_Onboarding.pdf_10",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_26"
+        ],
+        "retrieved_chunks": [
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**.",
+            "isk tools, compliance solutions, and workflow management systems for large industrial organizations. What Fennex Does Fennex focuses on improving:  Health, Safety & Environment (HSE)  Operational risk management  Compliance and assurance  Workforce safety  Inspection and audit processes  Offshore wind safety  Digital workflow automation  Enterprise collaboration systems Their solutions help companies replace manual paperwork and spreadsheets with centralized digital platforms that improv",
+            "ps for storing our code libraries, documents, and quality assurance QAQC a. https://azure.microsoft.com/en-gb/overview/devops-tutorial/ 8. OpenXML Documentation from Microsoft : Welcome to the Open XML SDK for Office | Microsoft Learn 9. Microsoft Training a. Fennex is a Microsoft Silver Partner, as such we have multiple team members work towards obtaining certification for various different parts of the business.",
+            "p companies replace manual paperwork and spreadsheets with centralized digital platforms that improve:  Safety  Efficiency  Reporting  Compliance  Predictive analysis  Operational visibility Fennex mainly provides: 1. Compliance & Assurance Solutions Helps companies:  Manage operational compliance  Maintain safety standards  Track procedures and policies  Digitize audits and inspections  Improve governance and reporting 2."
+        ],
+        "latency_ms": 3429.22,
+        "timestamp": "2026-06-22 12:50:07"
+    },
+    {
+        "question": "what is fennx ?",
+        "answer": "## What Fennex Does\nFennex is a **digital transformation** and **enterprise software** company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors.",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "response (9).docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "response (9).docx_2",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_25",
+            "response (9).docx_5",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_23"
+        ],
+        "retrieved_chunks": [
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**.",
+            "isk tools, compliance solutions, and workflow management systems for large industrial organizations. What Fennex Does Fennex focuses on improving:  Health, Safety & Environment (HSE)  Operational risk management  Compliance and assurance  Workforce safety  Inspection and audit processes  Offshore wind safety  Digital workflow automation  Enterprise collaboration systems Their solutions help companies replace manual paperwork and spreadsheets with centralized digital platforms that improv",
+            "AI-driven solutions. * Focusing on **Workforce Safety**, inspection, audit, and process improvement. ## What Fennex Does ### Key Services Offered Fennex's comprehensive range of services includes: 1. **Cloud-based Platform Development** 2. **AI-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5.",
+            "dance tracking Value Proposition KidCare improves pediatric healthcare management by:  Digitizing healthcare workflows  Reducing manual paperwork  Enabling remote consultations  Centralizing patient records  Improving communication between doctors, parents, and Care Partners  Making child healthcare more organized, accessible, and efficient. Activity 2 — Understanding Fennex Write a short summary of what Fennex does understand how and on what projects we work with Fennex."
+        ],
+        "latency_ms": 2506.18,
+        "timestamp": "2026-06-22 12:56:35"
+    },
+    {
+        "question": "who i vivek ?",
+        "answer": "I could not find relevant information.",
+        "citations": [
+            "NeuralNetworks_Unit5_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "NeuralNetworks_Unit5_Notes.docx_45"
+        ],
+        "retrieved_chunks": [
+            "plest learning rule. The Rule: If two neurons fire together, strengthen the connection between them. Hebb's Rule: 'Neurons that fire together, wire together' Formula: Δwij = α × xi × yj where: Δwij = change in weight between neuron i and j α = learning rate (how big each update step is) xi = input value yj = output value If both xi and yj are positive (both fire) → weight INCREASES If one fires and other doesn't → weight DECREASES Biologically inspired — models how real brain synapses strengthen"
+        ],
+        "latency_ms": 1421.93,
+        "timestamp": "2026-06-22 12:56:52"
+    },
+    {
+        "question": "what is onboarding process ?",
+        "answer": "## Onboarding Process\nThe onboarding process for new FloCard employees is as follows:\n* **Week 1**: Setup and Orientation\n  + Day 1: Collect laptop, set up email, Slack, and VPN access\n  + Day 2: Complete mandatory compliance and security training\n  + Day 3: Meet buddy and attend company orientation session\n  + Day 4-5: Shadow team and review internal documentation\n* **Week 2**: Role Onboarding\n  + Engineering hires: Set up local dev environment and complete first task\n  + Non-engineering hires: Complete role-specific training modules",
+        "citations": [
+            "onboarding_sop.json",
+            "NeuralNetworks_Unit5_Notes.docx",
+            "Fennex_Onboarding.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "onboarding_sop.json_1",
+            "onboarding_sop.json_4",
+            "onboarding_sop.json_2",
+            "Fennex_Onboarding.pdf_11",
+            "NeuralNetworks_Unit5_Notes.docx_37"
+        ],
+        "retrieved_chunks": [
+            "{ \"content\": \"\\n New Employee Onboarding SOP\\n\\n This document describes the standard onboarding process for all new FloCard employees.\\n\\n Week 1 \\u2014 Setup and Orientation\\n Day 1: Collect your laptop from IT. Set up email, Slack, and VPN access.\\n Day 2: Complete mandatory compliance and security training in the LMS portal.\\n Day 3: Meet your buddy (assigned by HR) and attend the company orientation session.\\n Day 4-5: Shadow your team and review relevant internal documentation.",
+            "nager\\n - Added to team Slack channels and calendar invites\\n\\n Contacts:\\n HR queries: ask@flocard.app\\n \", \"metadata\": { \"title\": \"New Employee Onboarding SOP\", \"tags\": [ \"onboarding\", \"SOP\", \"HR\", \"process\" ], \"type\": \"sop\", \"date\": \"2026-05-19\" } }",
+            "company orientation session.\\n Day 4-5: Shadow your team and review relevant internal documentation.\\n\\n Week 2 \\u2014 Role Onboarding\\n Engineering hires: Set up local dev environment using the Dev Setup Guide.\\n Complete your first small task or bug fix with code review from your team lead.\\n Non-engineering hires: Complete role-specific training modules in the LMS.",
+            "tiple team members work towards obtaining certification for various different parts of the business. Your mentor will outline a learning path for one of these certifications which will best suit your onboarding. In addition to the above guides and getting started videos from Microsoft we have our internal training videos outlined below. These cover a few key aspects of the business such as Hotyncs, SPFx form creation, etc.",
+            "). Student adjusts understanding (weights). Next time, the answer is better. This cycle is learning. The General Learning Process Step 1: Feed input data into network Step 2: Network produces an output (prediction) Step 3: Compare prediction with actual correct answer Step 4: Calculate ERROR = Actual - Predicted Step 5: Adjust weights to REDUCE the error Step 6: Repeat thousands of times until error is very small This cycle = one EPOCH (one pass through all training data) Three Main Types of Lea"
+        ],
+        "latency_ms": 2277.61,
+        "timestamp": "2026-06-22 12:57:04"
+    },
+    {
+        "question": "who is navya ?",
+        "answer": "I could not find relevant information.",
+        "citations": [
+            "Fennex_Onboarding.pdf",
+            "NeuralNetworks_Unit5_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Fennex_Onboarding.pdf_20",
+            "NeuralNetworks_Unit5_Notes.docx_3",
+            "NeuralNetworks_Unit5_Notes.docx_37",
+            "NeuralNetworks_Unit5_Notes.docx_15",
+            "NeuralNetworks_Unit5_Notes.docx_36"
+        ],
+        "retrieved_chunks": [
+            "ndustry for many years and as such has obtained knowledge on pretty much any topic you can think of.  Bozhidar Yankov (Aberdeen) – Bo is the Technical Lead and a senior developer with vast knowledge on multiple aspects  Abhijeet Dasgupta (India) - Abhijeet is a senior developer with extremely vast knowledge on all aspects of the business such as SPFx, SQL, Hotsyncs, Power Automate.",
+            "level? What is a Neural Network? A Neural Network is a computer system inspired by the human brain. It is made up of many small connected units called NEURONS (or nodes) that work together to learn patterns from data and make decisions. 💡 Simple Analogy: Just like your brain learns to recognise your mother's face by seeing it thousands of times — a neural network learns to recognise a cat by seeing thousands of cat images.",
+            "). Student adjusts understanding (weights). Next time, the answer is better. This cycle is learning. The General Learning Process Step 1: Feed input data into network Step 2: Network produces an output (prediction) Step 3: Compare prediction with actual correct answer Step 4: Calculate ERROR = Actual - Predicted Step 5: Adjust weights to REDUCE the error Step 6: Repeat thousands of times until error is very small This cycle = one EPOCH (one pass through all training data) Three Main Types of Lea",
+            "are Weights? Why do they matter? Weights decide how much each input influences the neuron's output. Large weight → that input has HIGH importance Small weight → that input has LOW importance Negative weight → that input SUPPRESSES the output During training, the network ADJUSTS weights automatically to make better predictions. What is Bias? Why is it needed? Bias is an extra number added to the weighted sum. It allows the neuron to shift its output, giving it more flexibility.",
+            "so that the network produces correct outputs for given inputs. 💡 Analogy: A student learning maths. The student sees a problem (input), gives a wrong answer (output), teacher corrects them (error). Student adjusts understanding (weights). Next time, the answer is better. This cycle is learning."
+        ],
+        "latency_ms": 2831.97,
+        "timestamp": "2026-06-22 13:06:50"
+    },
+    {
+        "question": "who is navya ?\n",
+        "answer": "I could not find relevant information.",
+        "citations": [
+            "Fennex_Onboarding.pdf",
+            "NeuralNetworks_Unit5_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Fennex_Onboarding.pdf_20",
+            "NeuralNetworks_Unit5_Notes.docx_3",
+            "NeuralNetworks_Unit5_Notes.docx_37",
+            "NeuralNetworks_Unit5_Notes.docx_15",
+            "NeuralNetworks_Unit5_Notes.docx_36"
+        ],
+        "retrieved_chunks": [
+            "ndustry for many years and as such has obtained knowledge on pretty much any topic you can think of.  Bozhidar Yankov (Aberdeen) – Bo is the Technical Lead and a senior developer with vast knowledge on multiple aspects  Abhijeet Dasgupta (India) - Abhijeet is a senior developer with extremely vast knowledge on all aspects of the business such as SPFx, SQL, Hotsyncs, Power Automate.",
+            "level? What is a Neural Network? A Neural Network is a computer system inspired by the human brain. It is made up of many small connected units called NEURONS (or nodes) that work together to learn patterns from data and make decisions. 💡 Simple Analogy: Just like your brain learns to recognise your mother's face by seeing it thousands of times — a neural network learns to recognise a cat by seeing thousands of cat images.",
+            "). Student adjusts understanding (weights). Next time, the answer is better. This cycle is learning. The General Learning Process Step 1: Feed input data into network Step 2: Network produces an output (prediction) Step 3: Compare prediction with actual correct answer Step 4: Calculate ERROR = Actual - Predicted Step 5: Adjust weights to REDUCE the error Step 6: Repeat thousands of times until error is very small This cycle = one EPOCH (one pass through all training data) Three Main Types of Lea",
+            "are Weights? Why do they matter? Weights decide how much each input influences the neuron's output. Large weight → that input has HIGH importance Small weight → that input has LOW importance Negative weight → that input SUPPRESSES the output During training, the network ADJUSTS weights automatically to make better predictions. What is Bias? Why is it needed? Bias is an extra number added to the weighted sum. It allows the neuron to shift its output, giving it more flexibility.",
+            "so that the network produces correct outputs for given inputs. 💡 Analogy: A student learning maths. The student sees a problem (input), gives a wrong answer (output), teacher corrects them (error). Student adjusts understanding (weights). Next time, the answer is better. This cycle is learning."
+        ],
+        "latency_ms": 2078.24,
+        "timestamp": "2026-06-22 13:07:02"
+    },
+    {
+        "question": "what is fennex?",
+        "answer": "## What Fennex Does\nFennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors.",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "Fennex_Onboarding.pdf",
+            "response (9).docx"
+        ],
+        
+        "retrieved_chunks": [
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**.",
+            "isk tools, compliance solutions, and workflow management systems for large industrial organizations. What Fennex Does Fennex focuses on improving:  Health, Safety & Environment (HSE)  Operational risk management  Compliance and assurance  Workforce safety  Inspection and audit processes  Offshore wind safety  Digital workflow automation  Enterprise collaboration systems Their solutions help companies replace manual paperwork and spreadsheets with centralized digital platforms that improv",
+            "ps for storing our code libraries, documents, and quality assurance QAQC a. https://azure.microsoft.com/en-gb/overview/devops-tutorial/ 8. OpenXML Documentation from Microsoft : Welcome to the Open XML SDK for Office | Microsoft Learn 9. Microsoft Training a. Fennex is a Microsoft Silver Partner, as such we have multiple team members work towards obtaining certification for various different parts of the business.",
+            "p companies replace manual paperwork and spreadsheets with centralized digital platforms that improve:  Safety  Efficiency  Reporting  Compliance  Predictive analysis  Operational visibility Fennex mainly provides: 1. Compliance & Assurance Solutions Helps companies:  Manage operational compliance  Maintain safety standards  Track procedures and policies  Digitize audits and inspections  Improve governance and reporting 2."
+        ],
+        "latency_ms": 2193.06,
+        "timestamp": "2026-06-22 13:17:28"
+    },
+    
+   
+    {
+        "question": "fennex",
+        "answer": "## Fennex\n* Fennex is a **digital technology company** that mainly works in the **energy**, **oil & gas**, and **offshore wind industries**.\n* The company develops **AI-powered** and **cloud-based platforms** that help organizations improve **safety**, **risk management**, **compliance**, and **operational efficiency**.\n* Fennex products include:\n  + **FennexSafe™**: A platform that transforms traditional, manual safety and compliance processes into efficient, automated workflows.\n  + **BBSS™**: A data-driven, **AI-powered** safety observation and reporting solution.",
+        "citations": [
+            "Week 1 day3(Navya MIshra).pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Week 1 day3(Navya MIshra).pdf_4",
+            "Week 1 day3(Navya MIshra).pdf_5",
+            "Week 1 day3(Navya MIshra).pdf_9",
+            "Week 1 day3(Navya MIshra).pdf_8",
+            "Week 1 day3(Navya MIshra).pdf_7"
+        ],
+        "retrieved_chunks": [
+            "racking while saving time for both families and care providers. 2. Understand Fennex Visited fennex.net summary of what Fennex does understand how and on what projects 366pi Technologies work with Fennex Fennex is a digital technology company that mainly works in the energy, oil & gas, and offshore wind industries. The company develops AI-powered and cloud-based platforms that help organizations improve safety, risk management, compliance, and operational efficiency.",
+            "rms that help organizations improve safety, risk management, compliance, and operational efficiency. Their solutions convert manual and complex workflows into automated digital systems with real-time monitoring and analytics. products developed by Fennex FennexSafe™ A platform that transforms traditional, manual safety and compliance processes into efficient, automated workflows. BBSS™ A data-driven, AI-powered safety observation and reporting solution.",
+            "stry expertise for offshore and energy operations Projects on which 366pi Tech worked with Fennex 1. AI-Powered Safety Systems Fennex’s BBSS is an AI-powered safety observation platform used in offshore oil & gas projects. 366Pi supports such systems with AI engineering, dashboards, analytics, and digital integration. 2.",
+            "d innovation partner for digital safety and enterprise solutions in the oil & gas and energy sector. How 366Pi works with Fennex • 366Pi provides: ➢ Digital workplace solutions ➢ Dashboard and reporting systems ➢ Automation and data integration support • Fennex provides: ➢ Safety and compliance platforms ➢ Risk management systems ➢ Industry expertise for offshore and energy operations Projects on which 366pi Tech worked with Fennex 1.",
+            "platform, delivering real-time visibility and proactive risk management for offshore wind projects. # How and on what projects 366pi Technologies work with Fennex ? Mainly as a technology and innovation partner for digital safety and enterprise solutions in the oil & gas and energy sector."
+        ],
+        "latency_ms": 3434.05,
+        "timestamp": "2026-06-22 14:44:23"
+    },
+    {
+        "question": "bbss",
+        "answer": "## BBSS \n* **BBSS** is a data-driven, **AI-powered** safety observation and reporting solution.\n* It is used in offshore oil & gas projects.",
+        "citations": [
+            "Week 1 day3(Navya MIshra).pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Week 1 day3(Navya MIshra).pdf_6",
+            "Week 1 day3(Navya MIshra).pdf_5",
+            "Week 1 day3(Navya MIshra).pdf_9"
+        ],
+        "retrieved_chunks": [
+            "ent, automated workflows. BBSS™ A data-driven, AI-powered safety observation and reporting solution. Risk Management Tool A platform that digitises, automates and enhances risk assessment, approval workflows and decision-making. AI Predictive Safety AI-powered predictive safety that detects signals early and drives targeted intervention. WindSafe™ A data-driven digital safety and assurance platform, delivering real-time visibility and proactive risk management for offshore wind projects.",
+            "rms that help organizations improve safety, risk management, compliance, and operational efficiency. Their solutions convert manual and complex workflows into automated digital systems with real-time monitoring and analytics. products developed by Fennex FennexSafe™ A platform that transforms traditional, manual safety and compliance processes into efficient, automated workflows. BBSS™ A data-driven, AI-powered safety observation and reporting solution.",
+            "stry expertise for offshore and energy operations Projects on which 366pi Tech worked with Fennex 1. AI-Powered Safety Systems Fennex’s BBSS is an AI-powered safety observation platform used in offshore oil & gas projects. 366Pi supports such systems with AI engineering, dashboards, analytics, and digital integration. 2."
+        ],
+        "latency_ms": 1189.83,
+        "timestamp": "2026-06-22 14:44:25"
+    },
+    {
+        "question": "bbss",
+        "answer": "## BBSS \n* **BBSS** is a data-driven, **AI-powered** safety observation and reporting solution.\n* It is used in offshore oil & gas projects.",
+        "citations": [
+            "Week 1 day3(Navya MIshra).pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Week 1 day3(Navya MIshra).pdf_6",
+            "Week 1 day3(Navya MIshra).pdf_5",
+            "Week 1 day3(Navya MIshra).pdf_9"
+        ],
+        "retrieved_chunks": [
+            "ent, automated workflows. BBSS™ A data-driven, AI-powered safety observation and reporting solution. Risk Management Tool A platform that digitises, automates and enhances risk assessment, approval workflows and decision-making. AI Predictive Safety AI-powered predictive safety that detects signals early and drives targeted intervention. WindSafe™ A data-driven digital safety and assurance platform, delivering real-time visibility and proactive risk management for offshore wind projects.",
+            "rms that help organizations improve safety, risk management, compliance, and operational efficiency. Their solutions convert manual and complex workflows into automated digital systems with real-time monitoring and analytics. products developed by Fennex FennexSafe™ A platform that transforms traditional, manual safety and compliance processes into efficient, automated workflows. BBSS™ A data-driven, AI-powered safety observation and reporting solution.",
+            "stry expertise for offshore and energy operations Projects on which 366pi Tech worked with Fennex 1. AI-Powered Safety Systems Fennex’s BBSS is an AI-powered safety observation platform used in offshore oil & gas projects. 366Pi supports such systems with AI engineering, dashboards, analytics, and digital integration. 2."
+        ],
+        "latency_ms": 1298.54,
+        "timestamp": "2026-06-22 14:44:46"
+    },
+    {
+        "question": "Explain bbss",
+        "answer": "## BBSS Explanation\n**BBSS** is a data-driven, **AI-powered** safety observation and reporting solution. It is used in offshore oil & gas projects as an AI-powered safety observation platform.",
+        "citations": [
+            "Week 1 day3(Navya MIshra).pdf",
+            "DataScience_Python_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Week 1 day3(Navya MIshra).pdf_6",
+            "Week 1 day3(Navya MIshra).pdf_5",
+            "Week 1 day3(Navya MIshra).pdf_9",
+            "DataScience_Python_Notes.docx_8"
+        ],
+        "retrieved_chunks": [
+            "ent, automated workflows. BBSS™ A data-driven, AI-powered safety observation and reporting solution. Risk Management Tool A platform that digitises, automates and enhances risk assessment, approval workflows and decision-making. AI Predictive Safety AI-powered predictive safety that detects signals early and drives targeted intervention. WindSafe™ A data-driven digital safety and assurance platform, delivering real-time visibility and proactive risk management for offshore wind projects.",
+            "rms that help organizations improve safety, risk management, compliance, and operational efficiency. Their solutions convert manual and complex workflows into automated digital systems with real-time monitoring and analytics. products developed by Fennex FennexSafe™ A platform that transforms traditional, manual safety and compliance processes into efficient, automated workflows. BBSS™ A data-driven, AI-powered safety observation and reporting solution.",
+            "stry expertise for offshore and energy operations Projects on which 366pi Tech worked with Fennex 1. AI-Powered Safety Systems Fennex’s BBSS is an AI-powered safety observation platform used in offshore oil & gas projects. 366Pi supports such systems with AI engineering, dashboards, analytics, and digital integration. 2.",
+            "licit line continuation total = 1 + 2 + \\ 3 + 4 # Implicit continuation result = (10 + 20 + 30) 1.2.2 Comments Comments are non-executable text used to explain code to human readers. Single-line comment — starts with # symbol. e.g., # This is a comment Multi-line comment — multiple # lines or a triple-quoted string ('''/\"\"\") used as a docstring Docstrings — triple-quoted strings immediately after def/class — accessible via __doc__ attribute def greet(name): \"\"\"This function greets the user."
+        ],
+        "latency_ms": 1415.96,
+        "timestamp": "2026-06-22 14:45:18"
+    },
+    {
+        "question": "Explain medgemma presxription preview scenario",
+        "answer": "## MedGemma Prescription Review Scenario\nThe MedGemma Prescription Review Scenario is an **AI-powered prescription review system**. The **Problem Statement** is that healthcare professionals often work with prescriptions that are handwritten, scanned, or stored as unstructured text, making them difficult to process and review efficiently.\n\nKey points of the scenario include:\n* Manual extraction of prescription details such as patient information, medication names, dosage, frequency, duration, and special instructions is time-consuming and prone to human error\n* The challenge is to develop a local-first AI-powered prescription review system that evaluates the capability of **MedGemma** in understanding prescription images and text\n* The system should automatically extract structured prescription information, present the extracted data for human verification, allow reviewers to approve, edit, or reject the results, and store reviewed outputs for future analysis.",
+        "citations": [
+            "MedGemma Prescription Review Scenario.docx",
+            "Internship Report Updated.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "MedGemma Prescription Review Scenario.docx_1",
+            "MedGemma Prescription Review Scenario.docx_5",
+            "MedGemma Prescription Review Scenario.docx_2",
+            "MedGemma Prescription Review Scenario.docx_3",
+            "Internship Report Updated.pdf_253"
+        ],
+        "retrieved_chunks": [
+            "MedGemma Prescription Review Scenario AI-powered prescription review system Problem Statement Healthcare professionals often work with prescriptions that are handwritten, scanned, or stored as unstructured text, making them difficult to process and review efficiently. Manual extraction of key prescription details such as patient information, medication names, dosage, frequency, duration, and special instructions is time-consuming and prone to human error.",
+            "ges into text using OCR tools. This makes handwritten or scanned prescriptions easier to analyze. 4. MedGemma Analysis Use MedGemma to understand the prescription and extract important details such as patient name, medicines, dosage, and frequency. 5. Structured Data Extraction Convert the AI output into a predefined JSON format. This ensures the extracted information is organized and easy to use. 6.",
+            "s, dosage, frequency, duration, and special instructions is time-consuming and prone to human error. The challenge is to develop a local-first AI-powered prescription review system that evaluates the capability of MedGemma in understanding prescription images and text.",
+            "view system that evaluates the capability of MedGemma in understanding prescription images and text. The system should automatically extract structured prescription information, present the extracted data for human verification, allow reviewers to approve, edit, or reject the results, and store reviewed outputs for future analysis. Solution approach 1. Prescription Upload Allow users to upload prescription images or text files. This makes unstructured prescription data available for processing.",
+            "ario (“What-If”) Analysis The Streamlit sidebar allows the user to choose the Forecast Horizon (e.g., 30 days), the Scenario (Normal / +20% Demand / +50% PM Activity) and the Max Items to Process, and then re-run the entire pipeline live by clicking “Run Pipeline”. Scenario Demand Multiplier PM-Activity Multiplier Normal x 1.0 x 1.0 +20% Demand x 1.2 x 1.0 +50% PM Activity x 1.0 x 1.5 Table 9: Scenario Analysis Multipliers raise logger."
+        ],
+        "latency_ms": 4036.46,
+        "timestamp": "2026-06-22 14:49:12"
+    }
+]
