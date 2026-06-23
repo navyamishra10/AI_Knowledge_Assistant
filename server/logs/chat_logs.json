@@ -137,74 +137,6 @@
         "timestamp": "2026-06-22 13:06:50"
     },
     {
-        "question": "who is navya ?\n",
-        "answer": "I could not find relevant information.",
-        "citations": [
-            "Fennex_Onboarding.pdf",
-            "NeuralNetworks_Unit5_Notes.docx"
-        ],
-        "retrieved_chunk_ids": [
-            "Fennex_Onboarding.pdf_20",
-            "NeuralNetworks_Unit5_Notes.docx_3",
-            "NeuralNetworks_Unit5_Notes.docx_37",
-            "NeuralNetworks_Unit5_Notes.docx_15",
-            "NeuralNetworks_Unit5_Notes.docx_36"
-        ],
-        "retrieved_chunks": [
-            "ndustry for many years and as such has obtained knowledge on pretty much any topic you can think of.  Bozhidar Yankov (Aberdeen) – Bo is the Technical Lead and a senior developer with vast knowledge on multiple aspects  Abhijeet Dasgupta (India) - Abhijeet is a senior developer with extremely vast knowledge on all aspects of the business such as SPFx, SQL, Hotsyncs, Power Automate.",
-            "level? What is a Neural Network? A Neural Network is a computer system inspired by the human brain. It is made up of many small connected units called NEURONS (or nodes) that work together to learn patterns from data and make decisions. 💡 Simple Analogy: Just like your brain learns to recognise your mother's face by seeing it thousands of times — a neural network learns to recognise a cat by seeing thousands of cat images.",
-            "). Student adjusts understanding (weights). Next time, the answer is better. This cycle is learning. The General Learning Process Step 1: Feed input data into network Step 2: Network produces an output (prediction) Step 3: Compare prediction with actual correct answer Step 4: Calculate ERROR = Actual - Predicted Step 5: Adjust weights to REDUCE the error Step 6: Repeat thousands of times until error is very small This cycle = one EPOCH (one pass through all training data) Three Main Types of Lea",
-            "are Weights? Why do they matter? Weights decide how much each input influences the neuron's output. Large weight → that input has HIGH importance Small weight → that input has LOW importance Negative weight → that input SUPPRESSES the output During training, the network ADJUSTS weights automatically to make better predictions. What is Bias? Why is it needed? Bias is an extra number added to the weighted sum. It allows the neuron to shift its output, giving it more flexibility.",
-            "so that the network produces correct outputs for given inputs. 💡 Analogy: A student learning maths. The student sees a problem (input), gives a wrong answer (output), teacher corrects them (error). Student adjusts understanding (weights). Next time, the answer is better. This cycle is learning."
-        ],
-        "latency_ms": 2078.24,
-        "timestamp": "2026-06-22 13:07:02"
-    },
-    {
-        "question": "what is fennex?",
-        "answer": "## What Fennex Does\nFennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors.",
-        "citations": [
-            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
-            "Fennex_Onboarding.pdf",
-            "response (9).docx"
-        ],
-        
-        "retrieved_chunks": [
-            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
-            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**.",
-            "isk tools, compliance solutions, and workflow management systems for large industrial organizations. What Fennex Does Fennex focuses on improving:  Health, Safety & Environment (HSE)  Operational risk management  Compliance and assurance  Workforce safety  Inspection and audit processes  Offshore wind safety  Digital workflow automation  Enterprise collaboration systems Their solutions help companies replace manual paperwork and spreadsheets with centralized digital platforms that improv",
-            "ps for storing our code libraries, documents, and quality assurance QAQC a. https://azure.microsoft.com/en-gb/overview/devops-tutorial/ 8. OpenXML Documentation from Microsoft : Welcome to the Open XML SDK for Office | Microsoft Learn 9. Microsoft Training a. Fennex is a Microsoft Silver Partner, as such we have multiple team members work towards obtaining certification for various different parts of the business.",
-            "p companies replace manual paperwork and spreadsheets with centralized digital platforms that improve:  Safety  Efficiency  Reporting  Compliance  Predictive analysis  Operational visibility Fennex mainly provides: 1. Compliance & Assurance Solutions Helps companies:  Manage operational compliance  Maintain safety standards  Track procedures and policies  Digitize audits and inspections  Improve governance and reporting 2."
-        ],
-        "latency_ms": 2193.06,
-        "timestamp": "2026-06-22 13:17:28"
-    },
-    
-   
-    {
-        "question": "fennex",
-        "answer": "## Fennex\n* Fennex is a **digital technology company** that mainly works in the **energy**, **oil & gas**, and **offshore wind industries**.\n* The company develops **AI-powered** and **cloud-based platforms** that help organizations improve **safety**, **risk management**, **compliance**, and **operational efficiency**.\n* Fennex products include:\n  + **FennexSafe™**: A platform that transforms traditional, manual safety and compliance processes into efficient, automated workflows.\n  + **BBSS™**: A data-driven, **AI-powered** safety observation and reporting solution.",
-        "citations": [
-            "Week 1 day3(Navya MIshra).pdf"
-        ],
-        "retrieved_chunk_ids": [
-            "Week 1 day3(Navya MIshra).pdf_4",
-            "Week 1 day3(Navya MIshra).pdf_5",
-            "Week 1 day3(Navya MIshra).pdf_9",
-            "Week 1 day3(Navya MIshra).pdf_8",
-            "Week 1 day3(Navya MIshra).pdf_7"
-        ],
-        "retrieved_chunks": [
-            "racking while saving time for both families and care providers. 2. Understand Fennex Visited fennex.net summary of what Fennex does understand how and on what projects 366pi Technologies work with Fennex Fennex is a digital technology company that mainly works in the energy, oil & gas, and offshore wind industries. The company develops AI-powered and cloud-based platforms that help organizations improve safety, risk management, compliance, and operational efficiency.",
-            "rms that help organizations improve safety, risk management, compliance, and operational efficiency. Their solutions convert manual and complex workflows into automated digital systems with real-time monitoring and analytics. products developed by Fennex FennexSafe™ A platform that transforms traditional, manual safety and compliance processes into efficient, automated workflows. BBSS™ A data-driven, AI-powered safety observation and reporting solution.",
-            "stry expertise for offshore and energy operations Projects on which 366pi Tech worked with Fennex 1. AI-Powered Safety Systems Fennex’s BBSS is an AI-powered safety observation platform used in offshore oil & gas projects. 366Pi supports such systems with AI engineering, dashboards, analytics, and digital integration. 2.",
-            "d innovation partner for digital safety and enterprise solutions in the oil & gas and energy sector. How 366Pi works with Fennex • 366Pi provides: ➢ Digital workplace solutions ➢ Dashboard and reporting systems ➢ Automation and data integration support • Fennex provides: ➢ Safety and compliance platforms ➢ Risk management systems ➢ Industry expertise for offshore and energy operations Projects on which 366pi Tech worked with Fennex 1.",
-            "platform, delivering real-time visibility and proactive risk management for offshore wind projects. # How and on what projects 366pi Technologies work with Fennex ? Mainly as a technology and innovation partner for digital safety and enterprise solutions in the oil & gas and energy sector."
-        ],
-        "latency_ms": 3434.05,
-        "timestamp": "2026-06-22 14:44:23"
-    },
-    {
         "question": "bbss",
         "answer": "## BBSS \n* **BBSS** is a data-driven, **AI-powered** safety observation and reporting solution.\n* It is used in offshore oil & gas projects.",
         "citations": [
@@ -287,5 +219,380 @@
         ],
         "latency_ms": 4036.46,
         "timestamp": "2026-06-22 14:49:12"
+    },
+    {
+        "question": "content of uploaded markdown file",
+        "answer": "## Content of Uploaded Markdown File\nThe context contains the following content from the uploaded Markdown file:\n* Introduction to a randomly generated Markdown file for testing purposes\n* Features:\n  * Document upload\n  * Semantic search\n  * Question answering\n  * Evaluation and logging\n* Sample Notes:\n  * **AI**: Artificial Intelligence enables machines to perform tasks that typically require human intelligence\n  * **FastAPI**: FastAPI is a modern Python framework for building APIs\n  * **Next.js**: Next.js is a React framework used for building full-stack web applications",
+        "citations": [
+            "Internship Report Updated.pdf",
+            "random_markdown_file.md",
+            "DataScience_Python_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "random_markdown_file.md_1",
+            "Internship Report Updated.pdf_158",
+            "Internship Report Updated.pdf_157",
+            "Internship Report Updated.pdf_96",
+            "DataScience_Python_Notes.docx_140"
+        ],
+        "retrieved_chunks": [
+            "# Random Knowledge Base ## Introduction This is a randomly generated Markdown file for testing purposes. ## Features - Document upload - Semantic search - Question answering - Evaluation and logging ## Sample Notes ### AI Artificial Intelligence enables machines to perform tasks that typically require human intelligence. ### FastAPI FastAPI is a modern Python framework for building APIs. ### Next.js Next.js is a React framework used for building full-stack web applications.",
+            "imilarity and copyright-safety metrics between the original uploaded image and the processed output. Three independent signals are combined into a weighted copyright-safety score: pixel-change percentage (background region only), colour-histogram difference, and perceptual hash (dHash) distance. 36 5.2.6 Two-Pass Colour Grading and Style Presets } } return ms.ToArray(); await file.",
+            "rst pass the uploaded image is analysed to infer the sport context (hockey, basketball, or generic). In the second pass the matching style-preset's colour-shift parameters are applied using SixLabors.ImageSharp, producing photo-realistic tonal output without any generative AI call. ImageCompareService — computes similarity and copyright-safety metrics between the original uploaded image and the processed output.",
+            "chat-based interface where users can upload their own documents and ask natural-language questions. The system must retrieve the most relevant passages from the uploaded documents, generate a grounded answer with citations to the source documents, redact any PII before returning the response, and provide an automated evaluation framework to measure answer quality. 5.1.",
+            ": content = f.read() # whole file f.seek(0) # reset pointer lines = f.readlines() # list of lines f.seek(0) for line in f: # iterate line by line process(line.strip()) 8."
+        ],
+        "latency_ms": 9642.83,
+        "timestamp": "2026-06-23 18:27:49"
+    },
+    {
+        "question": "summarise the content of uploaded json file",
+        "answer": "## JSON File Content\nThe context does not provide information about the content of an uploaded JSON file. However, it mentions reading JSON data from a file using `json.load()` and `pd.read_json()` functions. \n\n* **JSON Data**: `data = json.loads('{\"name\": \"Alice\", \"age\": 30}')`\n* **Pandas JSON**: `df = pd.read_json('data.json')` \n\nNo information is provided about the content of an uploaded JSON file.",
+        "citations": [
+            "Internship Report Updated.pdf",
+            "DataScience_Python_Notes.docx",
+            "MedGemma Prescription Review Scenario.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "DataScience_Python_Notes.docx_82",
+            "MedGemma Prescription Review Scenario.docx_6",
+            "DataScience_Python_Notes.docx_145",
+            "Internship Report Updated.pdf_133",
+            "Internship Report Updated.pdf_114"
+        ],
+        "retrieved_chunks": [
+            "ize) JSON string data = json.loads('{\"name\": \"Alice\", \"age\": 30}') # Read from file with open('data.json') as f: data = json.load(f) # Serializing (serialize) Python to JSON string json_str = json.dumps(data, indent=4, sort_keys=True) # Write to file with open('output.json', 'w') as f: json.dump(data, f, indent=4) # Pandas JSON df = pd.read_json('data.json') df.to_json('out.json', orient='records', lines=True) 4.5 XLS Data # Reading Excel with pandas df = pd.read_excel('data.",
+            "to a predefined JSON format. This ensures the extracted information is organized and easy to use. 6. Human Review Display the extracted data to a reviewer who can approve, edit, or reject the results. This improves accuracy and reliability. 7. Data Storage Store reviewed prescriptions and extraction results in a local database such as SQLite for future reference. 8. Export Results Allow users to export validated prescription records in JSON or CSV format for reporting and analysis. 9.",
+            "hub.com/users/octocat' response = requests.get(api_url) response.raise_for_status() data = response.json() # auto-parses JSON print(data['name'], data['public_repos']) # POST request with JSON body payload = {'key': 'value'} response = requests.post(url, json=payload, headers={'Authorization': 'Bearer TOKEN'}) 8.6.2 XML Parsing import xml.etree.ElementTree as ET tree = ET.parse('data.xml') root = tree.getroot() for child in root: print(child.tag, child.attrib, child.",
+            "mport os BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) LOGS_FILE = os.path.join(BASE_DIR, \"logs\", \"chat_logs.json\") def load_logs(): if not os.path.exists(LOGS_FILE): return [] with open(LOGS_FILE, \"r\", encoding=\"utf-8\") as f: try: return json.load(f) except json.JSONDecodeError: return [] def citation_coverage(logs): if not logs: return 0.0 with_citations = sum(1 for log in logs if log.",
+            "e(os.path.dirname(__file__)), \"data\", \"processed\", \"chunks.json\") def load_chunks(): if not os.path.exists(CHUNKS_FILE): return [] with open(CHUNKS_FILE, \"r\", encoding=\"utf-8\") as f: try: return json.load(f) except json.JSONDecodeError: return [] def bm25_search(query: str, chunks: list, top_k: int = 20) -> list: if not chunks: return [] tokenized_corpus = [c[\"text\"].lower().split() for c in chunks] 25 bm25 = BM25Okapi(tokenized_corpus) tokenized_query = query.lower().split() scores = bm25."
+        ],
+        "latency_ms": 11000.05,
+        "timestamp": "2026-06-23 18:29:31"
+    },
+    {
+        "question": "summarise content",
+        "answer": "## Summary\n* Email security: **DMARC**, **DKIM**, **TLS** for encryption and authentication\n* Digital operations: governed by **data privacy regulations** and **digital contracts**\n* Digital literacy: depends on **awareness** and **comfort level** with digital tools\n* E-commerce: driven by **content quality**, **customer support**, and **personalised recommendations**\n* Cryptography: **plaintext**, **ciphertext**, and **Kerckhoffs's Principle**\n* Marketing: **influencer marketing**, **content marketing**, **affiliate marketing**, and **retargeting**",
+        "citations": [
+            "NetworkSecurity_Cryptography_Notes.docx",
+            "DataScience_Python_Notes.docx",
+            "ECommerce_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "NetworkSecurity_Cryptography_Notes.docx_158",
+            "ECommerce_Notes.docx_13",
+            "NetworkSecurity_Cryptography_Notes.docx_101",
+            "DataScience_Python_Notes.docx_140",
+            "ECommerce_Notes.docx_60"
+        ],
+        "retrieved_chunks": [
+            "signature in email header, verified using public key in DNS. Proves email content was not modified. DMARC (Domain-based Message Authentication): policy layer that tells receiving servers what to do if SPF/DKIM checks fail (none, quarantine, reject). TLS for SMTP: STARTTLS and SMTP-TLS encrypt email in transit between mail servers. 6.",
+            "r protection laws, data privacy regulations (GDPR, IT Act), and digital contracts govern operations. Digital Literacy: adoption depends on awareness and comfort level of consumers with digital tools. Content and Catalogue Quality: accurate product descriptions, high-quality images, reviews, and personalised recommendations drive conversions. Customer Support: responsive service through multiple channels (chat, phone, email) builds loyalty.",
+            "graphy: cryptography hides the content of a message; steganography hides the existence of a message. Kerckhoffs's Principle: a cryptographic system should be secure even if everything about the system, except the key, is public knowledge. 5.2 Plain Text and Cipher Text Plaintext (P): original, readable data before encryption. Also called cleartext. Ciphertext (C): encrypted, unintelligible data produced by applying an encryption algorithm to plaintext.",
+            ": content = f.read() # whole file f.seek(0) # reset pointer lines = f.readlines() # list of lines f.seek(0) for line in f: # iterate line by line process(line.strip()) 8.",
+            "g: partnering with social media influencers to reach niche audiences with authentic recommendations. Content Marketing: blogs, videos, podcasts, and infographics that attract, educate, and convert customers. Affiliate Marketing: third-party affiliates earn commissions for driving traffic or sales through tracked links. Retargeting: displaying ads to previous website visitors across other websites and platforms. 3.1."
+        ],
+        "latency_ms": 3457.35,
+        "timestamp": "2026-06-23 18:30:34"
+    },
+    {
+        "question": "summarise the content",
+        "answer": "## Summary\n* Email security: **DMARC**, **DKIM**, **TLS** for encryption and authentication\n* Cryptography: **Kerckhoffs's Principle**, **plaintext**, **ciphertext**\n* Digital operations: governed by **data protection laws**, **digital contracts**\n* Digital literacy and content quality drive conversions\n* Steganography: **hides existence of a message**, techniques include **LSB insertion**, **masking and filtering**",
+        "citations": [
+            "NetworkSecurity_Cryptography_Notes.docx",
+            "DataScience_Python_Notes.docx",
+            "ECommerce_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "NetworkSecurity_Cryptography_Notes.docx_158",
+            "NetworkSecurity_Cryptography_Notes.docx_101",
+            "ECommerce_Notes.docx_13",
+            "DataScience_Python_Notes.docx_140",
+            "NetworkSecurity_Cryptography_Notes.docx_130"
+        ],
+        "retrieved_chunks": [
+            "signature in email header, verified using public key in DNS. Proves email content was not modified. DMARC (Domain-based Message Authentication): policy layer that tells receiving servers what to do if SPF/DKIM checks fail (none, quarantine, reject). TLS for SMTP: STARTTLS and SMTP-TLS encrypt email in transit between mail servers. 6.",
+            "graphy: cryptography hides the content of a message; steganography hides the existence of a message. Kerckhoffs's Principle: a cryptographic system should be secure even if everything about the system, except the key, is public knowledge. 5.2 Plain Text and Cipher Text Plaintext (P): original, readable data before encryption. Also called cleartext. Ciphertext (C): encrypted, unintelligible data produced by applying an encryption algorithm to plaintext.",
+            "r protection laws, data privacy regulations (GDPR, IT Act), and digital contracts govern operations. Digital Literacy: adoption depends on awareness and comfort level of consumers with digital tools. Content and Catalogue Quality: accurate product descriptions, high-quality images, reviews, and personalised recommendations drive conversions. Customer Support: responsive service through multiple channels (chat, phone, email) builds loyalty.",
+            ": content = f.read() # whole file f.seek(0) # reset pointer lines = f.readlines() # list of lines f.seek(0) for line in f: # iterate line by line process(line.strip()) 8.",
+            "which makes content unreadable), steganography hides the very existence of the secret message. 5.10.1 Digital Steganography Techniques LSB (Least Significant Bit) Insertion: the least significant bit of each pixel in an image (or sample in audio) is replaced with a bit of the secret message. Imperceptible to human eyes/ears but detectable by steganalysis tools. Masking and Filtering: hide information in more significant bits (more visible changes). More robust to lossy compression."
+        ],
+        "latency_ms": 4473.72,
+        "timestamp": "2026-06-23 18:35:11"
+    },
+    {
+        "question": "summarise the content of day 1 tasks pdf",
+        "answer": "## Day 1 Tasks\n* Collect laptop from IT\n* Set up email, Slack, and VPN access",
+        "citations": [
+            "Internship Report Updated.pdf",
+            "onboarding_sop.json"
+        ],
+        "retrieved_chunk_ids": [
+            "onboarding_sop.json_1",
+            "Internship Report Updated.pdf_54",
+            "Internship Report Updated.pdf_58",
+            "Internship Report Updated.pdf_325",
+            "Internship Report Updated.pdf_77"
+        ],
+        "retrieved_chunks": [
+            "{ \"content\": \"\\n New Employee Onboarding SOP\\n\\n This document describes the standard onboarding process for all new FloCard employees.\\n\\n Week 1 \\u2014 Setup and Orientation\\n Day 1: Collect your laptop from IT. Set up email, Slack, and VPN access.\\n Day 2: Complete mandatory compliance and security training in the LMS portal.\\n Day 3: Meet your buddy (assigned by HR) and attend the company orientation session.\\n Day 4-5: Shadow your team and review relevant internal documentation.",
+            "e week-by-week progression of work carried out during the six-week internship at 366Pi Technologies. Table 2: Week-wise Chronology of Achievements Week Days Key Activities and Achievements Week 1 Day 1 – Tuesday, 12 May 2026 Day 2 – Wednesday, 13 May 2026 Day 3 – Thursday, 14 May 2026 Day 4 – Friday, 15 May 2026 Day 1 (Tue, 12 May): Company induction at 366Pi Technologies; met the engineering and design teams; received workstation access and development credentials; attended project briefing ses",
+            "ested chunking output on PDF, DOCX and TXT sample files; verified clean, overlap-aware chunk output. Week 2 Day 5 – Monday, 18 May 2026 Day 6 – Tuesday, 19 May 2026 Day 7 – Wednesday, 20 May 2026 Day 8 – Thursday, 21 May 2026 Day 9 – Friday, 22 May 2026 Day 5 (Mon, 18 May): Built core/embeddings.py using sentence-transformers all-MiniLM-L6-v2 for dense vector generation; implemented core/vector_store.",
+            "dividual engineering tasks connect to the broader business goals of an organisation such as 366Pi Technologies. I am confident that the skills and experience gained during this period will be of significant value in my future academic and professional endeavours. 73 9. Further Enhancement (Suggestions) 9.1 AI Knowledge Assistant  Add streaming (token-by-token) responses in the chat UI to reduce perceived latency.  Support multi-language documents and queries.",
+            "er / OpenAPI; committed the finalised ImageAI deliverable with full source code and model artefacts. Week 5 Day 20 – Monday, 08 June 2026 Day 21 – Tuesday, 09 June 2026 Day 20 (Mon, 08 Jun): Received the Predictive Inventory Forecasting project brief for a Power & Energy (P&E) sector client; set up config/database."
+        ],
+        "latency_ms": 3473.11,
+        "timestamp": "2026-06-23 18:35:54"
+    },
+    {
+        "question": "tell me about 366pi technologies",
+        "answer": "## 366Pi Technologies Overview\n* **Legal Name**: 366Pi Technologies Pvt. Ltd.\n* **Founded**: 2013 (expanded into technology services & IP development from 2017)\n* **Headquarters**: Ranchi, Jharkhand, India\n* **Global Presence**: Ranchi, Bangalore, Dubai, Aberdeen, and Melbourne\n* **Company Size**: 11 - 50 employees\n* **Tagline**: “Coding Solutions to Decarbonize Enterprises”\n* **Core Focus**: Emerging technologies, bespoke application development, digital transformation consulting, and digital marketing services. \n* **Key Strengths**: \n  * Strong expertise in AI/ML, Blockchain, IoT, and other emerging technologies\n  * Environment-friendly practices and climate-positive initiatives\n  * Focus on teamwork, innovation, and continuous learning for employees and interns.",
+        "citations": [
+            "Internship Report Updated.pdf",
+            "Day 1 tasks.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Day 1 tasks.pdf_1",
+            "Internship Report Updated.pdf_32",
+            "Internship Report Updated.pdf_30",
+            "Internship Report Updated.pdf_31",
+            "Internship Report Updated.pdf_43"
+        ],
+        "retrieved_chunks": [
+            "Activity 1 #3 Takeaways from 366Pi technologies 1. 366Pi uses technology for smart solutions The company works on digital tools and innovative ideas to solve real-world business problems. 2. The company supports sustainability 366Pi focuses on environment-friendly practices and promotes climate-positive initiatives along with technology. 3. 366Pi believes in learning and growth The company encourages teamwork, innovation, and continuous learning for employees and interns.",
+            ": 366Pi Technologies - Company at a Glance Attribute Details Legal Name 366Pi Technologies Pvt. Ltd. Founded 2013 (expanded into technology services & IP development from 2017) Headquarters Suite #301, Durga House, Arvind Nagar, Near Patel Park, Harmu Housing Colony, Ranchi - 834002, Jharkhand, India Global Presence Ranchi, Bangalore, Dubai, Aberdeen and Melbourne Company Size 11 - 50 employees Recognition Microsoft Silver Partner Tagline “Coding Solutions to Decarbonize Enterprises” Core Focus",
+            "es and learnings from each of these three projects. 1.2 Company Profile 366Pi Technologies Pvt. Ltd. is a Ranchi-headquartered future-technology company that helps enterprises adopt emerging technologies through bespoke application development, digital transformation consulting, and digital marketing services. The company was founded in 2013 and, since 2017, has expanded its focus to technology services and IP/product development.",
+            "d in 2013 and, since 2017, has expanded its focus to technology services and IP/product development. Its tagline, “Coding Solutions to Decarbonize Enterprises”, reflects its long- term vision of helping organisations become more efficient, resilient and sustainable through technology. 9 Table 1: 366Pi Technologies - Company at a Glance Attribute Details Legal Name 366Pi Technologies Pvt. Ltd.",
+            "the business goals and client deliverables of a technology company such as 366Pi Technologies. 11 3. SWOT Analysis Based on my six weeks of exposure to the working culture, technology stack, project portfolio and market positioning of 366Pi Technologies, the following SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis was prepared. 3.1 Strengths  Strong, demonstrable expertise across AI/ML, Blockchain, IoT and other emerging technologies, validated by real client projects (e.g."
+        ],
+        "latency_ms": 14488.13,
+        "timestamp": "2026-06-23 18:37:08"
+    },
+    {
+        "question": "takeways of 366 pi",
+        "answer": "## Key Takeaways of 366Pi Technologies\n* **Legal Name**: 366Pi Technologies Pvt. Ltd.\n* **Founded**: 2013 (expanded into technology services & IP development from 2017)\n* **Headquarters**: Suite #301, Durga House, Arvind Nagar, Near Patel Park, Harmu Housing Colony, Ranchi - 834002, Jharkhand, India\n* **Global Presence**: Ranchi, Bangalore, Dubai, Aberdeen, and Melbourne\n* **Company Size**: 11 - 50 employees\n* **Tagline**: “Coding Solutions to Decarbonize Enterprises”\n* **Core Focus**: Technology services and IP/product development.",
+        "citations": [
+            "Internship Report Updated.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Internship Report Updated.pdf_5",
+            "Internship Report Updated.pdf_32",
+            "Internship Report Updated.pdf_31",
+            "Internship Report Updated.pdf_4",
+            "Internship Report Updated.pdf_95"
+        ],
+        "retrieved_chunks": [
+            "ste the original Certificate of Internship / Job Training issued by 366Pi Technologies, Ranchi here.) 4 Declaration I, Vivek Pramanik, a student of Master of Computer Applications (MCA), 2026 / SEMESTER 3, of Doranda College, Ranchi (Ranchi University), bearing Roll No.",
+            ": 366Pi Technologies - Company at a Glance Attribute Details Legal Name 366Pi Technologies Pvt. Ltd. Founded 2013 (expanded into technology services & IP development from 2017) Headquarters Suite #301, Durga House, Arvind Nagar, Near Patel Park, Harmu Housing Colony, Ranchi - 834002, Jharkhand, India Global Presence Ranchi, Bangalore, Dubai, Aberdeen and Melbourne Company Size 11 - 50 employees Recognition Microsoft Silver Partner Tagline “Coding Solutions to Decarbonize Enterprises” Core Focus",
+            "d in 2013 and, since 2017, has expanded its focus to technology services and IP/product development. Its tagline, “Coding Solutions to Decarbonize Enterprises”, reflects its long- term vision of helping organisations become more efficient, resilient and sustainable through technology. 9 Table 1: 366Pi Technologies - Company at a Glance Attribute Details Legal Name 366Pi Technologies Pvt. Ltd.",
+            "mic Session: 2024 - 2026 2 CERTIFICATE OF AUTHENTICITY (This page has been intentionally left blank. Please affix / paste the original Certificate of Authenticity issued by Doranda College / Ranchi University here.) 3 CERTIFICATE OF JOB TRAINING (This page has been intentionally left blank. Please affix / paste the original Certificate of Internship / Job Training issued by 366Pi Technologies, Ranchi here.",
+            ", and naive keyword search often misses relevant content that is phrased differently from the query. At the same time, organisations are wary of adopting LLM-based assistants because of the risk of hallucinated answers and the exposure of sensitive personal information (PII). The AI Knowledge Assistant addresses this by providing a chat-based interface where users can upload their own documents and ask natural-language questions."
+        ],
+        "latency_ms": 6208.04,
+        "timestamp": "2026-06-23 18:37:58"
+    },
+    {
+        "question": "takeaways from 366 pi technologies",
+        "answer": "## Takeaways from 366Pi Technologies\n* 366Pi uses technology for **smart solutions** to solve real-world business problems.\n* The company supports **sustainability** and promotes climate-positive initiatives.\n* 366Pi believes in **learning and growth**, encouraging teamwork, innovation, and continuous learning for employees and interns.",
+        "citations": [
+            "onboarding_sop.json",
+            "hr_policy.json",
+            "Day 1 tasks.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Day 1 tasks.pdf_1",
+            "Day 1 tasks.pdf_2",
+            "onboarding_sop.json_1",
+            "hr_policy.json_1",
+            "onboarding_sop.json_2"
+        ],
+        "retrieved_chunks": [
+            "Activity 1 #3 Takeaways from 366Pi technologies 1. 366Pi uses technology for smart solutions The company works on digital tools and innovative ideas to solve real-world business problems. 2. The company supports sustainability 366Pi focuses on environment-friendly practices and promotes climate-positive initiatives along with technology. 3. 366Pi believes in learning and growth The company encourages teamwork, innovation, and continuous learning for employees and interns.",
+            "owth The company encourages teamwork, innovation, and continuous learning for employees and interns. # 3 Takeaways from FlowCard 1. Digital Business Card Platform FloCard allows users to create and share digital business cards using QR codes, links, and OTPs. 2. Supports Sustainability FloCard promotes eco-friendly networking by reducing paper business cards and supporting climate action goals. 3.",
+            "{ \"content\": \"\\n New Employee Onboarding SOP\\n\\n This document describes the standard onboarding process for all new FloCard employees.\\n\\n Week 1 \\u2014 Setup and Orientation\\n Day 1: Collect your laptop from IT. Set up email, Slack, and VPN access.\\n Day 2: Complete mandatory compliance and security training in the LMS portal.\\n Day 3: Meet your buddy (assigned by HR) and attend the company orientation session.\\n Day 4-5: Shadow your team and review relevant internal documentation.",
+            "{ \"content\": \"\\n Employees are entitled to 20 paid leaves annually.\\n Sick leave can be applied through the HR portal.\\n Emergency leave requires manager approval.\\n Work from home is allowed twice a week.",
+            "company orientation session.\\n Day 4-5: Shadow your team and review relevant internal documentation.\\n\\n Week 2 \\u2014 Role Onboarding\\n Engineering hires: Set up local dev environment using the Dev Setup Guide.\\n Complete your first small task or bug fix with code review from your team lead.\\n Non-engineering hires: Complete role-specific training modules in the LMS."
+        ],
+        "latency_ms": 2412.4,
+        "timestamp": "2026-06-23 18:39:01"
+    },
+    {
+        "question": "flocard",
+        "answer": "## FloCard Overview\n* **FloCard** is a sustainability-focused digital business platform founded in India.\n* The company provides digital business cards, sustainability solutions, and climate-focused business tools.\n* Key features include:\n  * Digital business cards shared through QR codes, links, and OTP-based access\n  * Sustainability solutions such as carbon offsetting and GHG calculators\n  * Support for United Nations Sustainable Development Goals (SDGs) and climate action programs",
+        "citations": [
+            "company_overview.json",
+            "Day 1 tasks.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "company_overview.json_1",
+            "company_overview.json_3",
+            "Day 1 tasks.pdf_2",
+            "company_overview.json_2",
+            "Day 1 tasks.pdf_3"
+        ],
+        "retrieved_chunks": [
+            "{ \"content\": \"\\n FloCard is a sustainability-focused digital business platform founded in India.\\n The company provides digital business cards, sustainability solutions, and climate-focused business tools.\\n FloCard helps businesses reduce paper waste while supporting sustainability and net-zero initiatives.\\n The platform enables users to create secure digital business cards that can be shared through QR codes, links, and OTP-based access.",
+            "tiative to encourage organizations and individuals to contribute toward global sustainability goals.\\n FloCard supports businesses in aligning with the United Nations Sustainable Development Goals (SDGs) and climate action programs.\\n The platform focuses on combining networking, environmental responsibility, and digital transformation into a unified ecosystem.\\n FloCard operates through business, community, and sustainability-driven initiatives across multiple sectors.",
+            "owth The company encourages teamwork, innovation, and continuous learning for employees and interns. # 3 Takeaways from FlowCard 1. Digital Business Card Platform FloCard allows users to create and share digital business cards using QR codes, links, and OTPs. 2. Supports Sustainability FloCard promotes eco-friendly networking by reducing paper business cards and supporting climate action goals. 3.",
+            "eate secure digital business cards that can be shared through QR codes, links, and OTP-based access.\\n FloCard also offers solutions such as carbon offsetting, GHG calculators, SDG alignment, climate finance support, and sustainability dashboards.\\n The company promotes the #BetterPlanetTogether initiative to encourage organizations and individuals to contribute toward global sustainability goals.",
+            "tes eco-friendly networking by reducing paper business cards and supporting climate action goals. 3. Built for Different Users The platform supports individuals, businesses, communities, and tree planters through a connected ecosystem. Activity 2 1. FloCard created. 2. Added relevant personal and professional details. 3. Exchanged cards with at least 3 team members Activity 3 Made a substack post about FloCard Ecosystem Flow: https://substack."
+        ],
+        "latency_ms": 5661.71,
+        "timestamp": "2026-06-23 18:40:44"
+    },
+    {
+        "question": "tell me about cryptography",
+        "answer": "I could not find relevant information.",
+        "citations": [
+            "Day 1 tasks.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Day 1 tasks.pdf_3",
+            "Day 1 tasks.pdf_4"
+        ],
+        "retrieved_chunks": [
+            "tes eco-friendly networking by reducing paper business cards and supporting climate action goals. 3. Built for Different Users The platform supports individuals, businesses, communities, and tree planters through a connected ecosystem. Activity 2 1. FloCard created. 2. Added relevant personal and professional details. 3. Exchanged cards with at least 3 team members Activity 3 Made a substack post about FloCard Ecosystem Flow: https://substack.",
+            "least 3 team members Activity 3 Made a substack post about FloCard Ecosystem Flow: https://substack.com/@coolcareer/note/c- 257687860"
+        ],
+        "latency_ms": 2253.66,
+        "timestamp": "2026-06-23 18:41:30"
+    },
+    {
+        "question": "explain python programming language",
+        "answer": "I could not find relevant information.",
+        "citations": [
+            "dev_setup.json"
+        ],
+        "retrieved_chunk_ids": [
+            "dev_setup.json_1"
+        ],
+        "retrieved_chunks": [
+            "{ \"content\": \"\\n Local Development Environment Setup\\n\\n Prerequisites:\\n - Node.js v20 or higher\\n - Python 3.11 or higher\\n - Docker Desktop\\n - Git configured with your FloCard email\\n\\n Step 1: Clone the repository\\n git clone git@github.com:flocard/platform.git\\n cd platform\\n\\n Step 2: Install backend dependencies\\n cd server\\n python -m venv venv\\n venv/Scripts/activate (Windows) or source venv/bin/activate (Mac/Linux)\\n pip install -r requirements."
+        ],
+        "latency_ms": 1173.51,
+        "timestamp": "2026-06-23 18:42:11"
+    },
+    {
+        "question": "provide the substack post link",
+        "answer": "https://substack.com/@coolcareer/note/c[PHONE REDACTED]",
+        "citations": [
+            "api_guide.json",
+            "dev_setup.json",
+            "code_review_sop.json",
+            "Day 1 tasks.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Day 1 tasks.pdf_4",
+            "Day 1 tasks.pdf_3",
+            "code_review_sop.json_4",
+            "dev_setup.json_3",
+            "api_guide.json_2"
+        ],
+        "retrieved_chunks": [
+            "least 3 team members Activity 3 Made a substack post about FloCard Ecosystem Flow: https://substack.com/@coolcareer/note/c- 257687860",
+            "tes eco-friendly networking by reducing paper business cards and supporting climate action goals. 3. Built for Different Users The platform supports individuals, businesses, communities, and tree planters through a connected ecosystem. Activity 2 1. FloCard created. 2. Added relevant personal and professional details. 3. Exchanged cards with at least 3 team members Activity 3 Made a substack post about FloCard Ecosystem Flow: https://substack.",
+            "itHub with a clear title and description.\\n 3. Tag relevant reviewers and link the Jira ticket.\\n 4. Address all review comments before re-requesting review.\\n\\n Hotfix process:\\n For production incidents, one approval is sufficient but the second must follow within 24 hours.\\n All hotfixes must be accompanied by a post-mortem ticket in Jira.",
+            "r-compose up -d (starts PostgreSQL and Redis)\\n\\n Step 6: Run the backend\\n cd server\\n uvicorn api.main:app --reload --port 8000\\n\\n Step 7: Run the frontend\\n cd client\\n npm run dev\\n\\n The app will be available at http://localhost:3000.\\n API docs are at http://localhost:8000/docs.",
+            "dpoints:\\n\\n GET /expenses\\n Returns a paginated list of expense records for the authenticated user.\\n Query params: page (int), limit (int, max 100), status (pending|approved|rejected)\\n\\n POST /expenses\\n Creates a new expense entry.\\n Body: { \\\"amount\\\": 500, \\\"currency\\\": \\\"INR\\\", \\\"category\\\": \\\"travel\\\", \\\"description\\\": \\\"Client meeting cab\\\" }\\n\\n POST /expenses/{id}/approve\\n Approves a pending expense. Requires manager role."
+        ],
+        "latency_ms": 10775.43,
+        "timestamp": "2026-06-23 18:47:19"
+    },
+    {
+        "question": "Tell me about RAG pipeline",
+        "answer": "## RAG Pipeline\nThe RAG pipeline consists of the following steps:\n* User Question\n* Retrieve Relevant Chunks\n* Build Prompt\n* Groq Llama 3.3\n* Generate Answer\n* Verification\n* Redaction\n* Return Response",
+        "citations": [
+            "AI_Knowledge_Assistant_Project_Flow.pdf",
+            "Day 1 tasks.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "AI_Knowledge_Assistant_Project_Flow.pdf_2",
+            "AI_Knowledge_Assistant_Project_Flow.pdf_5",
+            "AI_Knowledge_Assistant_Project_Flow.pdf_1",
+            "Day 1 tasks.pdf_3",
+            "Day 1 tasks.pdf_4"
+        ],
+        "retrieved_chunks": [
+            "uses a Retrieval-Augmented Generation (RAG) pipeline to provide grounded answers with citations. 2. High-Level Architecture Documents → Ingestion → Cleaning → Chunking → Embeddings → ChromaDB → Retrieval → Prompt Building → Groq Llama 3.3 → Answer + Citations 3. Document Ingestion Flow Users upload PDF, DOCX, CSV, TXT, JSON, or Markdown files. The ingestion pipeline extracts text, cleans it, creates chunks, generates embeddings, and stores them in ChromaDB. 4.",
+            "metadata are stored in ChromaDB. This creates a searchable knowledge base used during retrieval. 7. Retrieval Pipeline The retrieval system uses Hybrid Retrieval: - Vector Search using ChromaDB - BM25 Keyword Search - Reciprocal Rank Fusion (RRF) - Cross Encoder Re-ranking The top-ranked chunks are returned as context. 8. RAG Pipeline User Question → Retrieve Relevant Chunks → Build Prompt → Groq Llama 3.3 → Generate Answer → Verification → Redaction → Return Response 9.",
+            "AI Knowledge Assistant - Detailed Project Flow Based on the implemented project architecture and codebase. Github repo link : https://github.com/Navya-Mishra10/AI- knowledge-assistant 1. Project Objective The AI Knowledge Assistant helps users retrieve information from uploaded organizational documents. It uses a Retrieval-Augmented Generation (RAG) pipeline to provide grounded answers with citations. 2.",
+            "tes eco-friendly networking by reducing paper business cards and supporting climate action goals. 3. Built for Different Users The platform supports individuals, businesses, communities, and tree planters through a connected ecosystem. Activity 2 1. FloCard created. 2. Added relevant personal and professional details. 3. Exchanged cards with at least 3 team members Activity 3 Made a substack post about FloCard Ecosystem Flow: https://substack.",
+            "least 3 team members Activity 3 Made a substack post about FloCard Ecosystem Flow: https://substack.com/@coolcareer/note/c- 257687860"
+        ],
+        "latency_ms": 2662.62,
+        "timestamp": "2026-06-23 19:26:04"
+    },
+    {
+        "question": "summarise the content of this file",
+        "answer": "## Summary\nThe content includes:\n* **New Employee Onboarding SOP**: outlining the onboarding process for new FloCard employees\n* **Code Review Standard Operating Procedure**: ensuring code changes meet quality and security standards\n* **FloCard Internal API Guide**: providing information on API authentication and common endpoints\n* **Company Information**: describing FloCard as a sustainability-focused digital business platform \n\nVerified Answer: \nThe content includes:\n* **New Employee Onboarding SOP**: outlining the onboarding process for new FloCard employees\n* **Code Review Standard Operating Procedure**: ensuring code changes meet quality and security standards\n* **FloCard Internal API Guide**: providing information on API authentication and common endpoints\n* **Company Information**: describing FloCard as a sustainability-focused digital business platform",
+        "citations": [
+            "api_guide.json",
+            "onboarding_sop.json",
+            "code_review_sop.json",
+            "company_overview.json"
+        ],
+        "retrieved_chunk_ids": [
+            "onboarding_sop.json_1",
+            "code_review_sop.json_1",
+            "api_guide.json_1",
+            "company_overview.json_1",
+            "api_guide.json_2"
+        ],
+        "retrieved_chunks": [
+            "{ \"content\": \"\\n New Employee Onboarding SOP\\n\\n This document describes the standard onboarding process for all new FloCard employees.\\n\\n Week 1 \\u2014 Setup and Orientation\\n Day 1: Collect your laptop from IT. Set up email, Slack, and VPN access.\\n Day 2: Complete mandatory compliance and security training in the LMS portal.\\n Day 3: Meet your buddy (assigned by HR) and attend the company orientation session.\\n Day 4-5: Shadow your team and review relevant internal documentation.",
+            "{ \"content\": \"\\n Code Review Standard Operating Procedure\\n\\n Purpose:\\n To ensure all code changes meet FloCard quality and security standards before merging.\\n\\n Rules:\\n 1. Every pull request must have at least 2 approvals before merging.\\n 2. No self-merges are allowed, even for urgent hotfixes.\\n 3. All CI checks (lint, tests, security scan) must pass before review can be approved.\\n 4. PRs should be kept small \\u2014 ideally under 400 lines of change.\\n 5.",
+            "{ \"content\": \"\\n FloCard Internal API Guide\\n\\n Base URL: https://api.flocard.internal/v2\\n\\n Authentication:\\n All API requests require a Bearer token in the Authorization header.\\n Example: Authorization: Bearer <your_token>\\n Tokens can be generated from the Developer Portal at dev.flocard.internal.\\n\\n Common Endpoints:\\n\\n GET /expenses\\n Returns a paginated list of expense records for the authenticated user.",
+            "{ \"content\": \"\\n FloCard is a sustainability-focused digital business platform founded in India.\\n The company provides digital business cards, sustainability solutions, and climate-focused business tools.\\n FloCard helps businesses reduce paper waste while supporting sustainability and net-zero initiatives.\\n The platform enables users to create secure digital business cards that can be shared through QR codes, links, and OTP-based access.",
+            "dpoints:\\n\\n GET /expenses\\n Returns a paginated list of expense records for the authenticated user.\\n Query params: page (int), limit (int, max 100), status (pending|approved|rejected)\\n\\n POST /expenses\\n Creates a new expense entry.\\n Body: { \\\"amount\\\": 500, \\\"currency\\\": \\\"INR\\\", \\\"category\\\": \\\"travel\\\", \\\"description\\\": \\\"Client meeting cab\\\" }\\n\\n POST /expenses/{id}/approve\\n Approves a pending expense. Requires manager role."
+        ],
+        "latency_ms": 5181.44,
+        "timestamp": "2026-06-23 20:19:18"
+    },
+    {
+        "question": "what is LLM sttus",
+        "answer": "## LLM Status\nThe context mentions multiple instances of **LLM** with different statuses:\n* Test case 31: **LLM** score 76, status **Pass**\n* Test case 33: **LLM** score 60, status **Pass**\n* Test case 36: **LLM** score 74, status **Pass**\n* Test case 57: **LLM** score 63, status **Pass**\n* Test case 59: **LLM** score 80, status **Pass**\n* Test case 61: **LLM** score 53, status **Pass**\n* Test case 76: **LLM** score 83, status **Pass**\n* Test case 79: **LLM** score 95, status **Pass**\n* Test case 82: **LLM** score 68, status **Pass**\n* Test case 1: **LLM** score 60, status **Fail**\n* Test case 6: **LLM** score 79, status **Pass**\n* Test case 74: **LLM** score 97, status **Fail**",
+        "citations": [
+            "random_test_data.csv"
+        ],
+        "retrieved_chunk_ids": [
+            "random_test_data.csv_4",
+            "random_test_data.csv_1",
+            "random_test_data.csv_5",
+            "random_test_data.csv_7",
+            "random_test_data.csv_8"
+        ],
+        "retrieved_chunks": [
+            "31 LLM 76 Pass Test case 31 31 32 Python 63 Fail Test case 32 32 33 LLM 60 Pass Test case 33 33 34 Next.js 66 Pass Test case 34 34 35 Next.",
+            "id topic score status remarks 0 1 LLM 60 Fail Test case 1 1 2 RAG 76 Fail Test case 2 2 3 Vector DB 75 Fail Test case 3 3 4 Vector DB 81 Pass Test case 4 4 5 Python 59 Fail Test case 5 5 6 LLM 79 Pass Test case 6 6 7 RAG 77 Pass Test case 7 7 8 AI 67 Pass Test case 8 8 9 Python 68 Fail Test case 9 9 10 Vector DB 70 Pass Test case 10 10 11 RAG 65 Pass Test case 11 11 12 Next.js 56 Pass Test case 12 12 13 Next.",
+            "n 63 Fail Test case 32 32 33 LLM 60 Pass Test case 33 33 34 Next.js 66 Pass Test case 34 34 35 Next.js 78 Fail Test case 35 35 36 LLM 74 Pass Test case 36 36 37 Machine Learning 53 Fail Test case 37 37 38 FastAPI 92 Pass Test case 38 38 39 RAG 93 Fail Test case 39 39 40 Machine Learning 63 Pass Test case 40 40 41 Vector DB 97 Pass Test case 41 41 42 AI 97 Fail Test case 42 42 43 AI 91 Fail Test case 43 43 44 Vector DB 94 Fail Test case 44 44 45 FastAPI 56 Pass Test case 45 45 46 AI 91 Fail Test",
+            "55 56 Python 94 Fail Test case 56 56 57 LLM 63 Pass Test case 57 57 58 RAG 54 Fail Test case 58 58 59 LLM 80 Pass Test case 59 59 60 Machine Learning 72 Pass Test case 60 60 61 LLM 53 Pass Test case 61 61 62 Python 82 Fail Test case 62 62 63 Vector DB 57 Pass Test case 63 63 64 AI 96 Fail Test case 64 64 65 AI 85 Fail Test case 65 65 66 Vector DB 87 Pass Test case 66 66 67 FastAPI 86 Pass Test case 67 67 68 Python 84 Fail Test case 68 68 69 Python 60 Fail Test case 69 69 70 Next.",
+            "86 Pass Test case 67 67 68 Python 84 Fail Test case 68 68 69 Python 60 Fail Test case 69 69 70 Next.js 50 Pass Test case 70 70 71 Python 77 Pass Test case 71 71 72 FastAPI 52 Pass Test case 72 72 73 AI 66 Fail Test case 73 73 74 LLM 97 Fail Test case 74 74 75 AI 82 Pass Test case 75 75 76 LLM 83 Pass Test case 76 76 77 RAG 53 Pass Test case 77 77 78 AI 68 Fail Test case 78 78 79 LLM 95 Pass Test case 79 79 80 Vector DB 88 Fail Test case 80 80 81 Python 63 Pass Test case 81 81 82 LLM 68 Pass Test"
+        ],
+        "latency_ms": 4031.88,
+        "timestamp": "2026-06-23 20:20:13"
+    },
+    {
+        "question": "what is use of flocar",
+        "answer": "## Use of FloCard\n* The company provides **digital business cards**, **sustainability solutions**, and **climate-focused business tools**.\n* FloCard helps businesses **reduce paper waste** while supporting **sustainability** and **net-zero initiatives**.\n* The platform enables users to create **secure digital business cards** that can be shared through **QR codes**, **links**, and **OTP-based access**.",
+        "citations": [
+            "company_overview.json",
+            "Day 1 tasks.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "company_overview.json_1",
+            "Day 1 tasks.pdf_2",
+            "company_overview.json_2",
+            "company_overview.json_3",
+            "Day 1 tasks.pdf_3"
+        ],
+        "retrieved_chunks": [
+            "{ \"content\": \"\\n FloCard is a sustainability-focused digital business platform founded in India.\\n The company provides digital business cards, sustainability solutions, and climate-focused business tools.\\n FloCard helps businesses reduce paper waste while supporting sustainability and net-zero initiatives.\\n The platform enables users to create secure digital business cards that can be shared through QR codes, links, and OTP-based access.",
+            "owth The company encourages teamwork, innovation, and continuous learning for employees and interns. # 3 Takeaways from FlowCard 1. Digital Business Card Platform FloCard allows users to create and share digital business cards using QR codes, links, and OTPs. 2. Supports Sustainability FloCard promotes eco-friendly networking by reducing paper business cards and supporting climate action goals. 3.",
+            "eate secure digital business cards that can be shared through QR codes, links, and OTP-based access.\\n FloCard also offers solutions such as carbon offsetting, GHG calculators, SDG alignment, climate finance support, and sustainability dashboards.\\n The company promotes the #BetterPlanetTogether initiative to encourage organizations and individuals to contribute toward global sustainability goals.",
+            "tiative to encourage organizations and individuals to contribute toward global sustainability goals.\\n FloCard supports businesses in aligning with the United Nations Sustainable Development Goals (SDGs) and climate action programs.\\n The platform focuses on combining networking, environmental responsibility, and digital transformation into a unified ecosystem.\\n FloCard operates through business, community, and sustainability-driven initiatives across multiple sectors.",
+            "tes eco-friendly networking by reducing paper business cards and supporting climate action goals. 3. Built for Different Users The platform supports individuals, businesses, communities, and tree planters through a connected ecosystem. Activity 2 1. FloCard created. 2. Added relevant personal and professional details. 3. Exchanged cards with at least 3 team members Activity 3 Made a substack post about FloCard Ecosystem Flow: https://substack."
+        ],
+        "latency_ms": 3326.02,
+        "timestamp": "2026-06-23 20:21:21"
     }
 ]

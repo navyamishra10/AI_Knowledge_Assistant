@@ -1,0 +1,101 @@
+id,topic,score,status,remarks
+1,LLM,60,Fail,Test case 1
+2,RAG,76,Fail,Test case 2
+3,Vector DB,75,Fail,Test case 3
+4,Vector DB,81,Pass,Test case 4
+5,Python,59,Fail,Test case 5
+6,LLM,79,Pass,Test case 6
+7,RAG,77,Pass,Test case 7
+8,AI,67,Pass,Test case 8
+9,Python,68,Fail,Test case 9
+10,Vector DB,70,Pass,Test case 10
+11,RAG,65,Pass,Test case 11
+12,Next.js,56,Pass,Test case 12
+13,Next.js,62,Pass,Test case 13
+14,FastAPI,61,Pass,Test case 14
+15,Python,73,Fail,Test case 15
+16,Vector DB,86,Pass,Test case 16
+17,AI,68,Fail,Test case 17
+18,Vector DB,63,Fail,Test case 18
+19,Python,70,Fail,Test case 19
+20,RAG,78,Pass,Test case 20
+21,Python,79,Pass,Test case 21
+22,Next.js,95,Pass,Test case 22
+23,Vector DB,53,Pass,Test case 23
+24,Machine Learning,99,Fail,Test case 24
+25,AI,74,Pass,Test case 25
+26,RAG,96,Pass,Test case 26
+27,RAG,72,Pass,Test case 27
+28,FastAPI,51,Fail,Test case 28
+29,RAG,59,Fail,Test case 29
+30,FastAPI,69,Pass,Test case 30
+31,LLM,76,Pass,Test case 31
+32,Python,63,Fail,Test case 32
+33,LLM,60,Pass,Test case 33
+34,Next.js,66,Pass,Test case 34
+35,Next.js,78,Fail,Test case 35
+36,LLM,74,Pass,Test case 36
+37,Machine Learning,53,Fail,Test case 37
+38,FastAPI,92,Pass,Test case 38
+39,RAG,93,Fail,Test case 39
+40,Machine Learning,63,Pass,Test case 40
+41,Vector DB,97,Pass,Test case 41
+42,AI,97,Fail,Test case 42
+43,AI,91,Fail,Test case 43
+44,Vector DB,94,Fail,Test case 44
+45,FastAPI,56,Pass,Test case 45
+46,AI,91,Fail,Test case 46
+47,AI,79,Pass,Test case 47
+48,AI,79,Fail,Test case 48
+49,LLM,54,Pass,Test case 49
+50,Python,90,Pass,Test case 50
+51,Vector DB,80,Fail,Test case 51
+52,AI,54,Fail,Test case 52
+53,FastAPI,79,Fail,Test case 53
+54,FastAPI,70,Pass,Test case 54
+55,LLM,76,Pass,Test case 55
+56,Python,94,Fail,Test case 56
+57,LLM,63,Pass,Test case 57
+58,RAG,54,Fail,Test case 58
+59,LLM,80,Pass,Test case 59
+60,Machine Learning,72,Pass,Test case 60
+61,LLM,53,Pass,Test case 61
+62,Python,82,Fail,Test case 62
+63,Vector DB,57,Pass,Test case 63
+64,AI,96,Fail,Test case 64
+65,AI,85,Fail,Test case 65
+66,Vector DB,87,Pass,Test case 66
+67,FastAPI,86,Pass,Test case 67
+68,Python,84,Fail,Test case 68
+69,Python,60,Fail,Test case 69
+70,Next.js,50,Pass,Test case 70
+71,Python,77,Pass,Test case 71
+72,FastAPI,52,Pass,Test case 72
+73,AI,66,Fail,Test case 73
+74,LLM,97,Fail,Test case 74
+75,AI,82,Pass,Test case 75
+76,LLM,83,Pass,Test case 76
+77,RAG,53,Pass,Test case 77
+78,AI,68,Fail,Test case 78
+79,LLM,95,Pass,Test case 79
+80,Vector DB,88,Fail,Test case 80
+81,Python,63,Pass,Test case 81
+82,LLM,68,Pass,Test case 82
+83,FastAPI,66,Pass,Test case 83
+84,Next.js,56,Pass,Test case 84
+85,Vector DB,52,Fail,Test case 85
+86,RAG,100,Pass,Test case 86
+87,Vector DB,81,Fail,Test case 87
+88,Machine Learning,61,Fail,Test case 88
+89,RAG,94,Fail,Test case 89
+90,Vector DB,87,Fail,Test case 90
+91,Next.js,62,Fail,Test case 91
+92,Next.js,76,Pass,Test case 92
+93,Vector DB,95,Fail,Test case 93
+94,Vector DB,84,Pass,Test case 94
+95,FastAPI,76,Pass,Test case 95
+96,RAG,72,Pass,Test case 96
+97,LLM,55,Fail,Test case 97
+98,Python,73,Fail,Test case 98
+99,FastAPI,51,Pass,Test case 99
+100,Vector DB,51,Pass,Test case 100

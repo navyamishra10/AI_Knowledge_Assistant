@@ -1,0 +1,35 @@
+{
+  "project": "AI Knowledge Assistant",
+  "test_cases": [
+    {
+      "id": 1,
+      "document": "The AI Knowledge Assistant allows users to upload PDFs and ask questions based on the uploaded content.",
+      "question": "What can users do after uploading a PDF?",
+      "expected_answer": "Users can ask questions based on the uploaded content."
+    },
+    {
+      "id": 2,
+      "document": "Groq is used as the LLM provider for generating responses in the application.",
+      "question": "What is Groq used for?",
+      "expected_answer": "Groq is used as the LLM provider for generating responses."
+    },
+    {
+      "id": 3,
+      "document": "The frontend is built with Next.js and the backend is developed using FastAPI.",
+      "question": "Which technologies are used for the frontend and backend?",
+      "expected_answer": "Next.js for the frontend and FastAPI for the backend."
+    },
+    {
+      "id": 4,
+      "document": "Vector embeddings are stored to enable semantic search across uploaded documents.",
+      "question": "Why are vector embeddings stored?",
+      "expected_answer": "To enable semantic search across uploaded documents."
+    },
+    {
+      "id": 5,
+      "document": "Users can upload multiple documents and query them through a chat interface.",
+      "question": "How do users interact with uploaded documents?",
+      "expected_answer": "They query them through a chat interface."
+    }
+  ]
+}
